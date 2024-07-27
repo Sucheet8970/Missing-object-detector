@@ -22,7 +22,7 @@ Welcome to the Missing Object Detector project! This tool uses YOLOv5, a cutting
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/missing-object-detector.git
+git clone [https://github.com/your-username/missing-object-detector.git](https://github.com/Sucheet8970/Missing-object-detector.git)
 cd missing-object-detector
 ```
 
